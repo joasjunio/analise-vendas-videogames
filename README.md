@@ -1,2 +1,3 @@
-# dashboard-games
-Análise de Vendas e Avaliações do Mercado de Videogames
+# 🎮 Análise de Vendas e Avaliações de Videogames
+
+![Dashboard](imagens/pagina1.png)
